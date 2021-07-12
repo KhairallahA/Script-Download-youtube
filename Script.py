@@ -1,9 +1,9 @@
 # لمعرفة بيانات الفيديو
 # from pafy import new
-# test = new('https://www.youtube.com/watch?v=8ijsxKzgROM')
+# test = new('URL...')
 # print(test)
 
-# لتحميل الفيديو بالدقة التي اريدها
+# لتحميل الفيديو بالدقة التي تريدها
 # from pafy import new
 # url = input('Enter you link here: ')
 # video = new(url)
